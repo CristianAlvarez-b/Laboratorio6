@@ -17,6 +17,12 @@
       error al subir manualmente
       ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/39512c1f-7de5-48f6-b122-f0f4d4c8852f)
       Hacerlo en la casa
-      
+5. Subirlo de manera automatica
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/452f0e88-59a7-4248-b241-3d82570f1065)
+
+## Parte II - Despliegue app web spring MVC (o spring-boot backend)
+1. Inicie Azure Cloud Shell desde el portal. Para implementar en un grupo de recursos, ingrese el siguiente comando
+   az group create --name MyResourceGroup --location westus
+3. 
 
      
