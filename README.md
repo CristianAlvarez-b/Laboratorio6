@@ -19,6 +19,10 @@
       Hacerlo en la casa
 5. Subirlo de manera automatica
    ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/452f0e88-59a7-4248-b241-3d82570f1065)
+   desde git hub Actions
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/93a746cf-b57d-4386-a165-891533b1dce3)
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/da486abe-a3fc-4dad-bd59-e27ed9533993)
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/082c154c-a04e-4c17-8e44-d6f028697047)
 
 ## Parte II - Despliegue app web spring MVC (o spring-boot backend)
 1. Inicie Azure Cloud Shell desde el portal. Para implementar en un grupo de recursos, ingrese el siguiente comando
