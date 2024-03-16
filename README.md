@@ -34,13 +34,11 @@
 
 3. Finalmente, cree el servidor MySQL con un nombre de servidor único.
    ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/45f3ae19-f9d5-45ff-b9d7-b5cf1ae4c1b9)
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/a5df6f08-b61b-46fa-a874-4c9a35e72e4a)
 
 
 
 
-
-
-
-4. 
+5. 
 
      
