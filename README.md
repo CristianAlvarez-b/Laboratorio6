@@ -27,6 +27,20 @@
 ## Parte II - Despliegue app web spring MVC (o spring-boot backend)
 1. Inicie Azure Cloud Shell desde el portal. Para implementar en un grupo de recursos, ingrese el siguiente comando
    az group create --name MyResourceGroup --location westus
-3. 
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/929d588e-eab7-4ca3-9550-821179bfc38d)
+2. Para crear un plan de servicio de aplicaciones (App service plan)
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/b64f8238-a69b-44f5-bf96-a34b8730477c)
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/63ddb9e3-8ff8-4971-aa5c-540fada47642)
+
+3. Finalmente, cree el servidor MySQL con un nombre de servidor único.
+   ![image](https://github.com/CristianAlvarez-b/Laboratorio6/assets/134233917/45f3ae19-f9d5-45ff-b9d7-b5cf1ae4c1b9)
+
+
+
+
+
+
+
+4. 
 
      
